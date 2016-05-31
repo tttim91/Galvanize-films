@@ -1,3 +1,7 @@
 body {
-    background-color: blue;
+    background-color: grey;
+}
+
+h1:hover {
+    cursor: pointer;
 }
