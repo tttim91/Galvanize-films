@@ -1,0 +1,9 @@
+{
+  "firebase": "GalvanizeFilmsTim",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
